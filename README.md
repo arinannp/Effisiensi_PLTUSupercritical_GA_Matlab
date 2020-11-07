@@ -1,0 +1,2 @@
+# Effisiensi_PLTUSupercritical_GA_Matlab
+Prediksi parameter pada PLTU Supercritical dengan Algoritma Genetika menggunakan Matlab
